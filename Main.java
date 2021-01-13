@@ -3,9 +3,6 @@ package com.company;
 import java.sql.SQLOutput;
 
 public class Main {
-    public Main() {
-    }
-
     public static void main(String[] args) {
         GeorgeGammell G = new GeorgeGammell("George");
         Leik L = new Leik("Лейк");
